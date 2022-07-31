@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2019 - Jun 2023",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Shree Rayeshwar institute of Engineering and Information Technology, Shiroda",
+            "cardDetailedText": "CGPA - 8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2018",
+            "cardTitle": "High School",
+            "cardSubtitle":"MES HSS, Vasco",
+            "cardDetailedText": "Marks - 100%"
+        }
+    ]
+}
